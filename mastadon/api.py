@@ -10,6 +10,10 @@ mastodon = Mastodon(
     api_base_url='https://mastodon.social'
 )
 
-public_timeline = mastodon.timeline_public()
-for toot in public_timeline:
-    print(toot['content'])
+# public_timeline = mastodon.timeline_public()
+# for toot in public_timeline:
+#     print(toot['content'])
+
+account_relationships = mastodon.suggestions()
+for relationship in account_relationships:
+    print(relationship['display_name'])
