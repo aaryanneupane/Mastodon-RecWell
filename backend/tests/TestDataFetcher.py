@@ -14,7 +14,7 @@ mastadon = Mastodon(
 
 dataFetcher = DataFetcher(mastadon)
 
-for post in dataFetcher.getPublicTimeline():
+for post in dataFetcher.getPublicTimeline(max_pages=1):
     print(post)
 
 # for user in dataFetcher.getUserSuggestions():

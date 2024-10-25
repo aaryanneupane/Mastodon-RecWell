@@ -1,8 +1,9 @@
 from .KeywordExtractor import KeywordExtractor
+from .DataFetcher import DataFetcher
 
 
 class ContentRecommender:
-    def __init__(self, dataFetcher):
+    def __init__(self, dataFetcher: DataFetcher):
         self.dataFetcher = dataFetcher
         self.recommendations = []
         self.keywordExtractor = KeywordExtractor()
@@ -11,10 +12,10 @@ class ContentRecommender:
         userLikes = self.dataFetcher.getUserLikedPosts(user_id)
         likedKeywords = self.__extractKeywords(userLikes)
 
-        publicTimeline = self.dataFetcher.getPublicTimeline()
+        publicTimeline = self.dataFetcher.getPublicTimeline(max_pages=10)
         for post in publicTimeline:
             if self.__postMatchesUserPreferences(post, likedKeywords):
-                self.recommendations.append(post['content'])
+                self.recommendations.append(post)
 
         return self.recommendations
 

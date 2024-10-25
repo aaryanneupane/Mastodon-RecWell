@@ -17,6 +17,3 @@ dataFetcher = DataFetcher(mastadon)
 recommender = ContentRecommender(dataFetcher)
 
 recommendedPosts =  recommender.recommendByUserInteractions(dataFetcher.userId)
-
-# for post in recommendedPosts:
-#     print(post)

@@ -16,12 +16,13 @@ mastodon = Mastodon(
     api_base_url="https://mastodon.social"
 )
 dataFetcher = DataFetcher(mastodon)
+recommender = ContentRecommender(dataFetcher)
 
 
 @app.route('/', methods=['GET'])
 def recommendations():
     # Fetch recommendations for the given user ID
-    recommended_posts = dataFetcher.getPublicTimeline()
+    recommended_posts = recommender.recommendByUserInteractions(dataFetcher.userId)
     # Convert to JSON and return
     return jsonify(recommended_posts)
 
