@@ -1,0 +1,95 @@
+{
+  "account": {
+    "acct": "avlcharlie",
+    "avatar": "https://files.mastodon.social/accounts/avatars/110/194/661/331/639/973/original/1a748d4488199f52.png",
+    "avatar_static": "https://files.mastodon.social/accounts/avatars/110/194/661/331/639/973/original/1a748d4488199f52.png",
+    "bot": false,
+    "created_at": "Fri, 14 Apr 2023 00:00:00 GMT",
+    "discoverable": true,
+    "display_name": "Asheville Charlie",
+    "emojis": [],
+    "fields": [
+      {
+        "name": "Location",
+        "value": "Asheville NC US",
+        "verified_at": null
+      },
+      {
+        "name": "Interests",
+        "value": "Coding, Robotics, AI, Linux, Nature, Photography, Politics and random goofiness",
+        "verified_at": null
+      },
+      {
+        "name": "Solid Blue",
+        "value": "Don&#39;t bring your maga bs in my house",
+        "verified_at": null
+      }
+    ],
+    "followers_count": 285,
+    "following_count": 354,
+    "group": false,
+    "header": "https://files.mastodon.social/accounts/headers/110/194/661/331/639/973/original/4cf46abc93554fd8.png",
+    "header_static": "https://files.mastodon.social/accounts/headers/110/194/661/331/639/973/original/4cf46abc93554fd8.png",
+    "hide_collections": false,
+    "id": 110194661331639973,
+    "indexable": false,
+    "last_status_at": "Fri, 25 Oct 2024 00:00:00 GMT",
+    "locked": false,
+    "noindex": true,
+    "note": "<p>I just want the world to be a better place for everyone. </p><p>Every single human.</p>",
+    "roles": [],
+    "statuses_count": 2251,
+    "uri": "https://mastodon.social/users/avlcharlie",
+    "url": "https://mastodon.social/@avlcharlie",
+    "username": "avlcharlie"
+  },
+  "application": {
+    "name": "Moshidon",
+    "website": "https://github.com/LucasGGamerM/moshidon"
+  },
+  "bookmarked": false,
+  "card": null,
+  "content": "<p>I&#39;m not certain but I&#39;m pretty sure Jill Biden landed at our airport about an hour ago. </p><p>While I truly appreciate the thought, the reality is it grinds our town to a stop. They shut down the freeway they shut down the airport and as I had previously posted our road system is starting to buckle to begin with.</p><p>Asheville has become a political football in the middle of trying to recover from a disaster and these visits from either side don&#39;t help.</p><p><a href=\"https://mastodon.social/tags/uspol\" class=\"mention hashtag\" rel=\"tag\">#<span>uspol</span></a><br /><a href=\"https://mastodon.social/tags/asheville\" class=\"mention hashtag\" rel=\"tag\">#<span>asheville</span></a> <br /><a href=\"https://mastodon.social/tags/jillbiden\" class=\"mention hashtag\" rel=\"tag\">#<span>jillbiden</span></a> <br /><a href=\"https://mastodon.social/tags/helene\" class=\"mention hashtag\" rel=\"tag\">#<span>helene</span></a></p>",
+  "created_at": "Fri, 25 Oct 2024 17:52:43 GMT",
+  "edited_at": null,
+  "emojis": [],
+  "favourited": false,
+  "favourites_count": 0,
+  "filtered": [],
+  "id": 113369334668666828,
+  "in_reply_to_account_id": null,
+  "in_reply_to_id": null,
+  "language": "en",
+  "media_attachments": [],
+  "mentions": [],
+  "muted": false,
+  "poll": null,
+  "reblog": null,
+  "reblogged": false,
+  "reblogs_count": 0,
+  "replies_count": 0,
+  "sensitive": false,
+  "spoiler_text": "",
+  "tags": [
+    {
+      "name": "uspol",
+      "url": "https://mastodon.social/tags/uspol"
+    },
+    {
+      "name": "asheville",
+      "url": "https://mastodon.social/tags/asheville"
+    },
+    {
+      "name": "jillbiden",
+      "url": "https://mastodon.social/tags/jillbiden"
+    },
+    {
+      "name": "helene",
+      "url": "https://mastodon.social/tags/helene"
+    }
+  ],
+  "uri": "https://mastodon.social/users/avlcharlie/statuses/113369334668666828",
+  "url": "https://mastodon.social/@avlcharlie/113369334668666828",
+  "visibility": "public"
+}
+
