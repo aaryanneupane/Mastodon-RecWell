@@ -1,0 +1,12 @@
+Mastodon.py==1.8.1
+torch==2.5.0
+torch-geometric==2.6.1
+torchvision==0.20.0
+torchaudio==2.5.0
+spacy==3.8.2
+pytextrank==3.3.0
+networkx==3.4.1
+pandas==2.2.3
+numpy==2.0.2
+python-dotenv==1.0.1
+requests==2.32.3
