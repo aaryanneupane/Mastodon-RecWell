@@ -17,7 +17,7 @@ class ContentRecommender:
             if self.__postMatchesUserPreferences(post, likedKeywords):
                 self.recommendations.append(post)
 
-        return self.recommendations
+        return userLikes
 
     def __extractKeywords(self, posts) -> list:
         keywords = []

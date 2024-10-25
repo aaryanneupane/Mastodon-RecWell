@@ -1,4 +1,5 @@
 from flask import Flask, jsonify, request
+from flask_cors import CORS
 from src.ContentRecommender import ContentRecommender  # Assuming your recommender is set up like this
 from src.DataFetcher import DataFetcher
 from mastodon import Mastodon
@@ -9,6 +10,7 @@ load_dotenv()
 access_token = os.getenv("ACCESS_TOKEN")
 
 app = Flask(__name__)
+CORS(app) # Enable CORS (Cross-Origin Resource Sharing) for all routes
 
 # Initialize the Mastodon API and the recommender
 mastodon = Mastodon(

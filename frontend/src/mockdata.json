@@ -1,95 +1,1437 @@
-{
-  "account": {
-    "acct": "avlcharlie",
-    "avatar": "https://files.mastodon.social/accounts/avatars/110/194/661/331/639/973/original/1a748d4488199f52.png",
-    "avatar_static": "https://files.mastodon.social/accounts/avatars/110/194/661/331/639/973/original/1a748d4488199f52.png",
-    "bot": false,
-    "created_at": "Fri, 14 Apr 2023 00:00:00 GMT",
-    "discoverable": true,
-    "display_name": "Asheville Charlie",
+[
+  {
+    "account": {
+      "acct": "dabertime@mstdn.social",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/300/966/962/574/862/original/64f48985832fab88.png",
+      "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/300/966/962/574/862/original/64f48985832fab88.png",
+      "bot": false,
+      "created_at": "Mon, 31 Oct 2022 00:00:00 GMT",
+      "discoverable": true,
+      "display_name": "Dwight (DB) \ud83e\udd14",
+      "emojis": [
+        {
+          "shortcode": "fediverse",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/156/693/static/441328c5a99c482f.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/156/693/original/441328c5a99c482f.png",
+          "visible_in_picker": true
+        }
+      ],
+      "fields": [
+        {
+          "name": "\ud83c\udf10 Location",
+          "value": "Calgary, Alberta, Canada \ud83c\udde8\ud83c\udde6",
+          "verified_at": null
+        },
+        {
+          "name": "\ud83d\udcf7 Photos",
+          "value": "www.instagram.com/dabertime",
+          "verified_at": null
+        },
+        {
+          "name": "Alt :fediverse:",
+          "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@dabertime\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dabertime@mstdn.ca</span></a></span>",
+          "verified_at": null
+        },
+        {
+          "name": "Just my toots",
+          "value": "<a href=\"https://justmytoots.com/@dabertime@mstdn.social\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justmytoots.com/@dabertime@mst</span><span class=\"invisible\">dn.social</span></a>",
+          "verified_at": null
+        }
+      ],
+      "followers_count": 3139,
+      "following_count": 2032,
+      "group": false,
+      "header": "https://files.mastodon.social/cache/accounts/headers/109/300/966/962/574/862/original/69b6f7a3e4dc7562.png",
+      "header_static": "https://files.mastodon.social/cache/accounts/headers/109/300/966/962/574/862/original/69b6f7a3e4dc7562.png",
+      "hide_collections": false,
+      "id": 109300966962574862,
+      "indexable": true,
+      "last_status_at": "Fri, 25 Oct 2024 00:00:00 GMT",
+      "locked": false,
+      "note": "<p>Philosophical, sometimes facetious contemplations on life and the human condition, black holes, time travel, and of course, tree pictures.<br>\ud83c\udf41<br>formerly rebelliousDB @ angrybirdsite</p><p><a href=\"https://mstdn.social/tags/Humour\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Humour</span></a> <a href=\"https://mstdn.social/tags/Photography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Photography</span></a> <a href=\"https://mstdn.social/tags/Nature\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Nature</span></a> <a href=\"https://mstdn.social/tags/ChronicPain\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChronicPain</span></a> <a href=\"https://mstdn.social/tags/ChronicIllness\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChronicIllness</span></a> <a href=\"https://mstdn.social/tags/Health\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Health</span></a> <a href=\"https://mstdn.social/tags/Science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Science</span></a> <a href=\"https://mstdn.social/tags/Community\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Community</span></a> <a href=\"https://mstdn.social/tags/Education\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Education</span></a> <a href=\"https://mstdn.social/tags/Equity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Equity</span></a> <a href=\"https://mstdn.social/tags/Sustainability\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Sustainability</span></a> <a href=\"https://mstdn.social/tags/Mindfulness\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mindfulness</span></a></p>",
+      "statuses_count": 3640,
+      "uri": "https://mstdn.social/users/dabertime",
+      "url": "https://mstdn.social/@dabertime",
+      "username": "dabertime"
+    },
+    "bookmarked": false,
+    "card": null,
+    "content": "<p>Frequency. </p><p><a href=\"https://mstdn.social/tags/Photography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Photography</span></a></p>",
+    "created_at": "Wed, 16 Oct 2024 22:04:28 GMT",
+    "edited_at": null,
     "emojis": [],
-    "fields": [
+    "favourited": true,
+    "favourites_count": 28,
+    "filtered": [],
+    "id": 113319363871366931,
+    "in_reply_to_account_id": null,
+    "in_reply_to_id": null,
+    "language": "en",
+    "media_attachments": [
       {
-        "name": "Location",
-        "value": "Asheville NC US",
-        "verified_at": null
-      },
-      {
-        "name": "Interests",
-        "value": "Coding, Robotics, AI, Linux, Nature, Photography, Politics and random goofiness",
-        "verified_at": null
-      },
-      {
-        "name": "Solid Blue",
-        "value": "Don&#39;t bring your maga bs in my house",
-        "verified_at": null
+        "blurhash": "UvIFVsxat7of?dt6ayjtxwoeaya#ITf7f7js",
+        "description": "A stand of Evergreen trees by a pond on a slightly cloudy day, seemingly like an island floating in space, the effect of being surrounded by blue cloudy sky above and that sky and trees reflected in the water in the foreground below the trees.\nThe trees and their reflection have a similar appearance to frequency wavelengths on an oscilloscope, maybe if you squint.",
+        "id": 113319363810355906,
+        "meta": {
+          "original": {
+            "aspect": 0.8399048266485384,
+            "height": 2942,
+            "size": "2471x2942",
+            "width": 2471
+          },
+          "small": {
+            "aspect": 0.8396946564885496,
+            "height": 524,
+            "size": "440x524",
+            "width": 440
+          }
+        },
+        "preview_remote_url": null,
+        "preview_url": "https://files.mastodon.social/cache/media_attachments/files/113/319/363/810/355/906/small/7bed9b31dbd3090f.jpg",
+        "remote_url": "https://media.mstdn.social/media_attachments/files/113/319/301/558/420/514/original/25a5842a0470734d.jpg",
+        "text_url": null,
+        "type": "image",
+        "url": "https://files.mastodon.social/cache/media_attachments/files/113/319/363/810/355/906/original/7bed9b31dbd3090f.jpg"
       }
     ],
-    "followers_count": 285,
-    "following_count": 354,
-    "group": false,
-    "header": "https://files.mastodon.social/accounts/headers/110/194/661/331/639/973/original/4cf46abc93554fd8.png",
-    "header_static": "https://files.mastodon.social/accounts/headers/110/194/661/331/639/973/original/4cf46abc93554fd8.png",
-    "hide_collections": false,
-    "id": 110194661331639973,
-    "indexable": false,
-    "last_status_at": "Fri, 25 Oct 2024 00:00:00 GMT",
-    "locked": false,
-    "noindex": true,
-    "note": "<p>I just want the world to be a better place for everyone. </p><p>Every single human.</p>",
-    "roles": [],
-    "statuses_count": 2251,
-    "uri": "https://mastodon.social/users/avlcharlie",
-    "url": "https://mastodon.social/@avlcharlie",
-    "username": "avlcharlie"
+    "mentions": [],
+    "muted": false,
+    "poll": null,
+    "reblog": null,
+    "reblogged": true,
+    "reblogs_count": 50,
+    "replies_count": 7,
+    "sensitive": false,
+    "spoiler_text": "",
+    "tags": [
+      {
+        "name": "photography",
+        "url": "https://mastodon.social/tags/photography"
+      }
+    ],
+    "uri": "https://mstdn.social/users/dabertime/statuses/113319363756601099",
+    "url": "https://mstdn.social/@dabertime/113319363756601099",
+    "visibility": "public"
   },
-  "application": {
-    "name": "Moshidon",
-    "website": "https://github.com/LucasGGamerM/moshidon"
+  {
+    "account": {
+      "acct": "petergleick@fediscience.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/304/464/942/897/108/original/078f01e3a454cdd3.jpg",
+      "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/304/464/942/897/108/original/078f01e3a454cdd3.jpg",
+      "bot": false,
+      "created_at": "Sat, 05 Nov 2022 00:00:00 GMT",
+      "discoverable": true,
+      "display_name": "Peter Gleick",
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Twitter",
+          "value": "<a href=\"https://fedified.com/@petergleick\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">fedified.com/@petergleick</span><span class=\"invisible\"></span></a>",
+          "verified_at": "2024-10-24T23:18:37.848+00:00"
+        },
+        {
+          "name": "Personal Website",
+          "value": "www.gleick.com",
+          "verified_at": null
+        },
+        {
+          "name": "ORCID",
+          "value": "<a href=\"https://orcid.org/my-orcid?orcid=0000-0001-7232-9284\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">orcid.org/my-orcid?orcid=0000-</span><span class=\"invisible\">0001-7232-9284</span></a>",
+          "verified_at": null
+        }
+      ],
+      "followers_count": 16931,
+      "following_count": 234,
+      "group": false,
+      "header": "https://files.mastodon.social/cache/accounts/headers/109/304/464/942/897/108/original/ff0f7a31452f1730.png",
+      "header_static": "https://files.mastodon.social/cache/accounts/headers/109/304/464/942/897/108/original/ff0f7a31452f1730.png",
+      "hide_collections": false,
+      "id": 109304464942897108,
+      "indexable": false,
+      "last_status_at": "Fri, 25 Oct 2024 00:00:00 GMT",
+      "locked": false,
+      "note": "<p>Climate and water scientist and communicator. Interested in many things, including birds, mandolin, politics. You can also find my stuff (or message me) at www.gleick.com.<br>Author of a mess of scientific papers, the 9 volumes of The World's Water (Island Press); Bottled and Sold: The Story Behind Our Obsession with Bottled Water (Island Press); A 21st Century US Water Policy (Oxford); and my new book: \"The Three Ages of Water.\"</p>",
+      "statuses_count": 2700,
+      "uri": "https://fediscience.org/users/petergleick",
+      "url": "https://fediscience.org/@petergleick",
+      "username": "petergleick"
+    },
+    "bookmarked": false,
+    "card": null,
+    "content": "<p>A reminder: the $75,000,000 Elon Musk has given to Donald Trump to buy political influence is chump-change to him. It's a tiny fraction of one percent (0.03%) of his net worth of $245,000,000,000. <br>Tax billionaires.</p>",
+    "created_at": "Wed, 16 Oct 2024 15:02:45 GMT",
+    "edited_at": null,
+    "emojis": [],
+    "favourited": true,
+    "favourites_count": 60,
+    "filtered": [],
+    "id": 113317707904276157,
+    "in_reply_to_account_id": null,
+    "in_reply_to_id": null,
+    "language": "en",
+    "media_attachments": [],
+    "mentions": [],
+    "muted": false,
+    "poll": null,
+    "reblog": null,
+    "reblogged": false,
+    "reblogs_count": 231,
+    "replies_count": 11,
+    "sensitive": false,
+    "spoiler_text": "",
+    "tags": [],
+    "uri": "https://fediscience.org/users/petergleick/statuses/113317705492204381",
+    "url": "https://fediscience.org/@petergleick/113317705492204381",
+    "visibility": "public"
   },
-  "bookmarked": false,
-  "card": null,
-  "content": "<p>I&#39;m not certain but I&#39;m pretty sure Jill Biden landed at our airport about an hour ago. </p><p>While I truly appreciate the thought, the reality is it grinds our town to a stop. They shut down the freeway they shut down the airport and as I had previously posted our road system is starting to buckle to begin with.</p><p>Asheville has become a political football in the middle of trying to recover from a disaster and these visits from either side don&#39;t help.</p><p><a href=\"https://mastodon.social/tags/uspol\" class=\"mention hashtag\" rel=\"tag\">#<span>uspol</span></a><br /><a href=\"https://mastodon.social/tags/asheville\" class=\"mention hashtag\" rel=\"tag\">#<span>asheville</span></a> <br /><a href=\"https://mastodon.social/tags/jillbiden\" class=\"mention hashtag\" rel=\"tag\">#<span>jillbiden</span></a> <br /><a href=\"https://mastodon.social/tags/helene\" class=\"mention hashtag\" rel=\"tag\">#<span>helene</span></a></p>",
-  "created_at": "Fri, 25 Oct 2024 17:52:43 GMT",
-  "edited_at": null,
-  "emojis": [],
-  "favourited": false,
-  "favourites_count": 0,
-  "filtered": [],
-  "id": 113369334668666828,
-  "in_reply_to_account_id": null,
-  "in_reply_to_id": null,
-  "language": "en",
-  "media_attachments": [],
-  "mentions": [],
-  "muted": false,
-  "poll": null,
-  "reblog": null,
-  "reblogged": false,
-  "reblogs_count": 0,
-  "replies_count": 0,
-  "sensitive": false,
-  "spoiler_text": "",
-  "tags": [
-    {
-      "name": "uspol",
-      "url": "https://mastodon.social/tags/uspol"
+  {
+    "account": {
+      "acct": "axadle",
+      "avatar": "https://files.mastodon.social/accounts/avatars/110/568/732/037/754/546/original/2d153d86f12b711a.jpg",
+      "avatar_static": "https://files.mastodon.social/accounts/avatars/110/568/732/037/754/546/original/2d153d86f12b711a.jpg",
+      "bot": false,
+      "created_at": "Mon, 19 Jun 2023 00:00:00 GMT",
+      "discoverable": true,
+      "display_name": "",
+      "emojis": [],
+      "fields": [],
+      "followers_count": 15,
+      "following_count": 15,
+      "group": false,
+      "header": "https://mastodon.social/headers/original/missing.png",
+      "header_static": "https://mastodon.social/headers/original/missing.png",
+      "hide_collections": false,
+      "id": 110568732037754546,
+      "indexable": false,
+      "last_status_at": "Fri, 25 Oct 2024 00:00:00 GMT",
+      "locked": false,
+      "noindex": false,
+      "note": "",
+      "roles": [],
+      "statuses_count": 10458,
+      "uri": "https://mastodon.social/users/axadle",
+      "url": "https://mastodon.social/@axadle",
+      "username": "axadle"
     },
-    {
-      "name": "asheville",
-      "url": "https://mastodon.social/tags/asheville"
+    "application": {
+      "name": "axadle",
+      "website": "https://axadletimes.com/"
     },
-    {
-      "name": "jillbiden",
-      "url": "https://mastodon.social/tags/jillbiden"
+    "bookmarked": false,
+    "card": {
+      "author_name": "",
+      "author_url": "",
+      "authors": [
+        {
+          "account": null,
+          "name": "",
+          "url": ""
+        }
+      ],
+      "blurhash": "U9C?ikV[9DV[8xe.Ngk99rRj.8X9XCnmnNt7",
+      "description": "In a match showcasing classic Messi brilliance, Argentina decimated Bolivia in their quest for World Cup qualification, courtesy of Messi's masterclass,",
+      "embed_url": "",
+      "height": 387,
+      "html": "",
+      "image": "https://files.mastodon.social/cache/preview_cards/images/116/241/088/original/b61e5f84d6e317c0.jpeg",
+      "image_description": "Lionel Messi nets hat trick for Argentina, says games 'can be my last'",
+      "language": "en",
+      "provider_name": "Axadle | Stay Informed with Horn of Africa Headlines",
+      "provider_url": "",
+      "published_at": null,
+      "title": "Lionel Messi Scores Hat Trick For Argentina, Acknowledges These Matches 'Could Be My Last' - Axadle | Stay Informed With Horn Of Africa Headlines",
+      "type": "link",
+      "url": "https://tinyurl.com/25y295ux",
+      "width": 594
     },
-    {
-      "name": "helene",
-      "url": "https://mastodon.social/tags/helene"
-    }
-  ],
-  "uri": "https://mastodon.social/users/avlcharlie/statuses/113369334668666828",
-  "url": "https://mastodon.social/@avlcharlie/113369334668666828",
-  "visibility": "public"
-}
-
+    "content": "<p><a href=\"https://mastodon.social/tags/SOMALIA\" class=\"mention hashtag\" rel=\"tag\">#<span>SOMALIA</span></a> Lionel Messi Scores Hat Trick for Argentina, Acknowledges These Matches &#39;Could Be My Last&#39; <a href=\"https://tinyurl.com/25y295ux\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/25y295ux</span><span class=\"invisible\"></span></a></p>",
+    "created_at": "Wed, 16 Oct 2024 22:31:08 GMT",
+    "edited_at": null,
+    "emojis": [],
+    "favourited": true,
+    "favourites_count": 1,
+    "filtered": [],
+    "id": 113319468626883206,
+    "in_reply_to_account_id": null,
+    "in_reply_to_id": null,
+    "language": "en",
+    "media_attachments": [
+      {
+        "blurhash": "U8CsdNV[DgV[8xe.Ngk99rRj-=X9XVnmnNxt",
+        "description": null,
+        "id": 113319468598448513,
+        "meta": {
+          "original": {
+            "aspect": 1.5348837209302326,
+            "height": 430,
+            "size": "660x430",
+            "width": 660
+          },
+          "small": {
+            "aspect": 1.5348837209302326,
+            "height": 387,
+            "size": "594x387",
+            "width": 594
+          }
+        },
+        "preview_remote_url": null,
+        "preview_url": "https://files.mastodon.social/media_attachments/files/113/319/468/598/448/513/small/d675039f77087382.jpg",
+        "remote_url": null,
+        "text_url": null,
+        "type": "image",
+        "url": "https://files.mastodon.social/media_attachments/files/113/319/468/598/448/513/original/d675039f77087382.jpg"
+      }
+    ],
+    "mentions": [],
+    "muted": false,
+    "poll": null,
+    "reblog": null,
+    "reblogged": true,
+    "reblogs_count": 1,
+    "replies_count": 0,
+    "sensitive": false,
+    "spoiler_text": "",
+    "tags": [
+      {
+        "name": "somalia",
+        "url": "https://mastodon.social/tags/somalia"
+      }
+    ],
+    "uri": "https://mastodon.social/users/axadle/statuses/113319468626883206",
+    "url": "https://mastodon.social/@axadle/113319468626883206",
+    "visibility": "public"
+  },
+  {
+    "account": {
+      "acct": "hotnews_pt",
+      "avatar": "https://files.mastodon.social/accounts/avatars/112/640/180/340/755/250/original/998260bce357a332.png",
+      "avatar_static": "https://files.mastodon.social/accounts/avatars/112/640/180/340/755/250/original/998260bce357a332.png",
+      "bot": true,
+      "created_at": "Tue, 18 Jun 2024 00:00:00 GMT",
+      "discoverable": null,
+      "display_name": "Hot News",
+      "emojis": [],
+      "fields": [
+        {
+          "name": "homepage",
+          "value": "hotnews.pt",
+          "verified_at": null
+        }
+      ],
+      "followers_count": 37,
+      "following_count": 11,
+      "group": false,
+      "header": "https://files.mastodon.social/accounts/headers/112/640/180/340/755/250/original/e0c305e024c10232.jpg",
+      "header_static": "https://files.mastodon.social/accounts/headers/112/640/180/340/755/250/original/e0c305e024c10232.jpg",
+      "hide_collections": null,
+      "id": 112640180340755250,
+      "indexable": false,
+      "last_status_at": "Fri, 25 Oct 2024 00:00:00 GMT",
+      "locked": false,
+      "noindex": false,
+      "note": "<p>A sua fonte de not\u00edcias sobre Portugal e o Mundo. Mantenha-se informado com as \u00faltimas not\u00edcias e atualiza\u00e7\u00f5es em tempo real.</p>",
+      "roles": [],
+      "statuses_count": 45214,
+      "uri": "https://mastodon.social/users/hotnews_pt",
+      "url": "https://mastodon.social/@hotnews_pt",
+      "username": "hotnews_pt"
+    },
+    "application": {
+      "name": "Jetpack",
+      "website": "https://jetpack.com/social/"
+    },
+    "bookmarked": false,
+    "card": {
+      "author_name": "",
+      "author_url": "",
+      "authors": [
+        {
+          "account": null,
+          "name": "",
+          "url": ""
+        }
+      ],
+      "blurhash": "UVC=rSog0ys:9tjZ%2WUNGkCxaayxuoLRjbI",
+      "description": "Hot News Parecia um grande jogo para Miguel Almiron e Paraguai na ter\u00e7a-feira (na madrugada de quarta-feira, hor\u00e1rio do Reino Unido), quando receberam a Venezuela nesta partida da fase de qualifica\u2026",
+      "embed_url": "",
+      "height": 348,
+      "html": "",
+      "image": "https://files.mastodon.social/cache/preview_cards/images/116/241/083/original/b092141df7800ec7.jpeg",
+      "image_description": "",
+      "language": "pt",
+      "provider_name": "Hotnews.pt",
+      "provider_url": "",
+      "published_at": "Wed, 16 Oct 2024 22:31:05 GMT",
+      "title": "Miguel Almiron em boa forma na grande vit\u00f3ria de retorno para vencer a Venezuela nas eliminat\u00f3rias da Copa do Mundo\n  #\u00daltimasNot\u00edcias #Venezuela",
+      "type": "link",
+      "url": "https://hotnews.pt/news-ve/miguel-almiron-em-boa-forma-na-grande-vitoria-de-retorno-para-vencer-a-venezuela-nas-eliminatorias-da-copa-do-mundo-ultimasnoticias-venezuela/",
+      "width": 662
+    },
+    "content": "<p>Miguel Almiron em boa forma na grande vit\u00f3ria de retorno para vencer a Venezuela nas eliminat\u00f3rias da Copa do Mundo <a href=\"https://mastodon.social/tags/%C3%9AltimasNot%C3%ADcias\" class=\"mention hashtag\" rel=\"tag\">#<span>\u00daltimasNot\u00edcias</span></a> <a href=\"https://mastodon.social/tags/Venezuela\" class=\"mention hashtag\" rel=\"tag\">#<span>Venezuela</span></a></p><p>Hot News Parecia um grande jogo para Miguel Almiron e Paraguai na ter\u00e7a-feira (na madrugada de quarta-feira, hor\u00e1rio do Reino Unido), quando receberam a Venezuela nesta partida da fase de qualifica\u00e7\u00e3o para a Copa do Mundo. J\u00e1 se passaram mais de seis horas de futebol desde que o Paraguai sofreu um gol, se ao menos conseguisse\u2026</p><p><a href=\"https://hotnews.pt/news-ve/miguel-almiron-em-boa-forma-na-grande-vitoria-de-retorno-para-vencer-a-venezuela-nas-eliminatorias-da-copa-do-mundo-ultimasnoticias-venezuela/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">hotnews.pt/news-ve/miguel-almi</span><span class=\"invisible\">ron-em-boa-forma-na-grande-vitoria-de-retorno-para-vencer-a-venezuela-nas-eliminatorias-da-copa-do-mundo-ultimasnoticias-venezuela/</span></a></p>",
+    "created_at": "Wed, 16 Oct 2024 22:31:14 GMT",
+    "edited_at": null,
+    "emojis": [],
+    "favourited": true,
+    "favourites_count": 1,
+    "filtered": [],
+    "id": 113319469037988702,
+    "in_reply_to_account_id": null,
+    "in_reply_to_id": null,
+    "language": "en",
+    "media_attachments": [],
+    "mentions": [],
+    "muted": false,
+    "poll": null,
+    "reblog": null,
+    "reblogged": false,
+    "reblogs_count": 0,
+    "replies_count": 0,
+    "sensitive": false,
+    "spoiler_text": "",
+    "tags": [
+      {
+        "name": "ultimasnoticias",
+        "url": "https://mastodon.social/tags/ultimasnoticias"
+      },
+      {
+        "name": "venezuela",
+        "url": "https://mastodon.social/tags/venezuela"
+      }
+    ],
+    "uri": "https://mastodon.social/users/hotnews_pt/statuses/113319469037988702",
+    "url": "https://mastodon.social/@hotnews_pt/113319469037988702",
+    "visibility": "public"
+  },
+  {
+    "account": {
+      "acct": "Brandi_Buchman@mstdn.social",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/291/088/838/688/640/original/6d39ac5d844e5c99.jpg",
+      "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/291/088/838/688/640/original/6d39ac5d844e5c99.jpg",
+      "bot": false,
+      "created_at": "Tue, 01 Nov 2022 00:00:00 GMT",
+      "discoverable": true,
+      "display_name": "Brandi Buchman",
+      "emojis": [],
+      "fields": [
+        {
+          "name": "VERIFIED BY",
+          "value": "<a href=\"https://presscheck.org/journalists/brandi-buchman\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">presscheck.org/journalists/bra</span><span class=\"invisible\">ndi-buchman</span></a>",
+          "verified_at": null
+        }
+      ],
+      "followers_count": 10774,
+      "following_count": 173,
+      "group": false,
+      "header": "https://mastodon.social/headers/original/missing.png",
+      "header_static": "https://mastodon.social/headers/original/missing.png",
+      "hide_collections": false,
+      "id": 109291088838688640,
+      "indexable": false,
+      "last_status_at": "Fri, 25 Oct 2024 00:00:00 GMT",
+      "locked": false,
+      "note": "<p>Legal/Justice Reporter HuffPo. <br>Writing a book. Bylines; Law&amp;Crime.<br>Proud Boys trial for emptywheel. Former senior staff writer Daily Kos covering Jan. 6. Chief White House &amp; Congressional Correspondent @ Courthouse News. Reporter/feature writer at The Southampton Press/27east.<br>Cash App: $BrandiBMedia<br>Pay Pal: <a href=\"http://paypal.com/paypalme/BBuchman\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">paypal.com/paypalme/BBuchman</span><span class=\"invisible\"></span></a></p>",
+      "statuses_count": 1310,
+      "uri": "https://mstdn.social/users/Brandi_Buchman",
+      "url": "https://mstdn.social/@Brandi_Buchman",
+      "username": "Brandi_Buchman"
+    },
+    "bookmarked": false,
+    "card": {
+      "author_name": "HuffPost Staff",
+      "author_url": "",
+      "authors": [
+        {
+          "account": null,
+          "name": "HuffPost Staff",
+          "url": ""
+        }
+      ],
+      "blurhash": "U6C5*ksl0xIa^g-lIq9wo[Rio3R:SlNNw[?D",
+      "description": "Read live updates on the 2024 election.",
+      "embed_url": "",
+      "height": 348,
+      "html": "",
+      "image": "https://files.mastodon.social/cache/preview_cards/images/115/923/630/original/b7452ea6f6cf7358.jpg",
+      "image_description": "",
+      "language": "en",
+      "provider_name": "HuffPost",
+      "provider_url": "",
+      "published_at": "Mon, 14 Oct 2024 12:57:11 GMT",
+      "title": "Harris, Trump Hit Swing States As Election Day Looms: Latest Updates",
+      "type": "link",
+      "url": "https://www.huffpost.com/entry/harris-trump-election-latest-updates_n_670969d1e4b0f3da6456e364/liveblog_67100bdfe4b0b6831a117e9f",
+      "width": 662
+    },
+    "content": "<p>Judge: Trump Could Be On The Hook For Jan. 6 Riots \u2014 Even If He Didn\u2019t Give Marching Orders</p><p><a href=\"https://www.huffpost.com/entry/harris-trump-election-latest-updates_n_670969d1e4b0f3da6456e364/liveblog_67100bdfe4b0b6831a117e9f\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">huffpost.com/entry/harris-trum</span><span class=\"invisible\">p-election-latest-updates_n_670969d1e4b0f3da6456e364/liveblog_67100bdfe4b0b6831a117e9f</span></a></p>",
+    "created_at": "Wed, 16 Oct 2024 19:21:54 GMT",
+    "edited_at": null,
+    "emojis": [],
+    "favourited": true,
+    "favourites_count": 11,
+    "filtered": [],
+    "id": 113318724630054668,
+    "in_reply_to_account_id": null,
+    "in_reply_to_id": null,
+    "language": "en",
+    "media_attachments": [],
+    "mentions": [],
+    "muted": false,
+    "poll": null,
+    "reblog": null,
+    "reblogged": false,
+    "reblogs_count": 31,
+    "replies_count": 3,
+    "sensitive": false,
+    "spoiler_text": "",
+    "tags": [],
+    "uri": "https://mstdn.social/users/Brandi_Buchman/statuses/113318724555176657",
+    "url": "https://mstdn.social/@Brandi_Buchman/113318724555176657",
+    "visibility": "public"
+  },
+  {
+    "account": {
+      "acct": "setiinstitute",
+      "avatar": "https://files.mastodon.social/accounts/avatars/110/663/880/262/592/750/original/8c9ff452807f17ad.png",
+      "avatar_static": "https://files.mastodon.social/accounts/avatars/110/663/880/262/592/750/original/8c9ff452807f17ad.png",
+      "bot": false,
+      "created_at": "Wed, 05 Jul 2023 00:00:00 GMT",
+      "discoverable": true,
+      "display_name": "SETI Institute",
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Website",
+          "value": "<a href=\"https://www.seti.org/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">seti.org/</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        },
+        {
+          "name": "Newsletter",
+          "value": "<a href=\"https://www.seti.org/signup\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">seti.org/signup</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        },
+        {
+          "name": "Donate",
+          "value": "<a href=\"https://www.seti.org/givenow\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">seti.org/givenow</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        }
+      ],
+      "followers_count": 2914,
+      "following_count": 38,
+      "group": false,
+      "header": "https://files.mastodon.social/accounts/headers/110/663/880/262/592/750/original/c1d336286da28110.jpg",
+      "header_static": "https://files.mastodon.social/accounts/headers/110/663/880/262/592/750/original/c1d336286da28110.jpg",
+      "hide_collections": false,
+      "id": 110663880262592750,
+      "indexable": false,
+      "last_status_at": "Fri, 25 Oct 2024 00:00:00 GMT",
+      "locked": false,
+      "noindex": false,
+      "note": "<p>Our mission is to lead humanity&#39;s quest to understand the origins and prevalence of life and intelligence in the universe and share that knowledge. <a href=\"https://mastodon.social/tags/SETI\" class=\"mention hashtag\" rel=\"tag\">#<span>SETI</span></a> <a href=\"https://mastodon.social/tags/arewealone\" class=\"mention hashtag\" rel=\"tag\">#<span>arewealone</span></a></p>",
+      "roles": [],
+      "statuses_count": 1049,
+      "uri": "https://mastodon.social/users/setiinstitute",
+      "url": "https://mastodon.social/@setiinstitute",
+      "username": "setiinstitute"
+    },
+    "application": {
+      "name": "Buffer",
+      "website": "https://buffer.com"
+    },
+    "bookmarked": false,
+    "card": null,
+    "content": "<p><a href=\"https://mastodon.social/tags/PPOD\" class=\"mention hashtag\" rel=\"tag\">#<span>PPOD</span></a>: Aringa Ora O Te Tupuna (The Living Face of the Ancestors)</p><p>Award-winning photographer Josh Dury captured this stunning picture of the Milky Way over Easter Island and some of its famous Maoi. From his Instagram post: &quot;A truly unforgettable night from one of the darkest places on Earth, surrounded by a place and a community that is close to my heart. One of the most powerful, emotional moments of my life.&quot;</p><p>Credit: Josh Dury</p><p><a href=\"https://mastodon.social/tags/space\" class=\"mention hashtag\" rel=\"tag\">#<span>space</span></a> <a href=\"https://mastodon.social/tags/science\" class=\"mention hashtag\" rel=\"tag\">#<span>science</span></a> <a href=\"https://mastodon.social/tags/astrophotography\" class=\"mention hashtag\" rel=\"tag\">#<span>astrophotography</span></a></p>",
+    "created_at": "Wed, 16 Oct 2024 17:40:27 GMT",
+    "edited_at": null,
+    "emojis": [],
+    "favourited": true,
+    "favourites_count": 170,
+    "filtered": [],
+    "id": 113318325609757863,
+    "in_reply_to_account_id": null,
+    "in_reply_to_id": null,
+    "language": "en",
+    "media_attachments": [
+      {
+        "blurhash": "UG9@3B?aX8WoxaafRkR*0LE1n$oLW.t6xat6",
+        "description": "The Milky Way is a thick, dusty band almost parallel to the bottom of this image. In the foreground are at least four Moai statues on the hill side of Easter Island. ",
+        "id": 113318325500738877,
+        "meta": {
+          "original": {
+            "aspect": 0.66796875,
+            "height": 1024,
+            "size": "684x1024",
+            "width": 684
+          },
+          "small": {
+            "aspect": 0.6678023850085179,
+            "height": 587,
+            "size": "392x587",
+            "width": 392
+          }
+        },
+        "preview_remote_url": null,
+        "preview_url": "https://files.mastodon.social/media_attachments/files/113/318/325/500/738/877/small/824e1d2d5cfcaa38.jpeg",
+        "remote_url": null,
+        "text_url": null,
+        "type": "image",
+        "url": "https://files.mastodon.social/media_attachments/files/113/318/325/500/738/877/original/824e1d2d5cfcaa38.jpeg"
+      }
+    ],
+    "mentions": [],
+    "muted": false,
+    "poll": null,
+    "reblog": null,
+    "reblogged": true,
+    "reblogs_count": 105,
+    "replies_count": 2,
+    "sensitive": false,
+    "spoiler_text": "",
+    "tags": [
+      {
+        "name": "PPOD",
+        "url": "https://mastodon.social/tags/PPOD"
+      },
+      {
+        "name": "space",
+        "url": "https://mastodon.social/tags/space"
+      },
+      {
+        "name": "science",
+        "url": "https://mastodon.social/tags/science"
+      },
+      {
+        "name": "astrophotography",
+        "url": "https://mastodon.social/tags/astrophotography"
+      }
+    ],
+    "uri": "https://mastodon.social/users/setiinstitute/statuses/113318325609757863",
+    "url": "https://mastodon.social/@setiinstitute/113318325609757863",
+    "visibility": "public"
+  },
+  {
+    "account": {
+      "acct": "tenzochris",
+      "avatar": "https://files.mastodon.social/accounts/avatars/109/245/862/147/744/765/original/aecc46e03035e42d.png",
+      "avatar_static": "https://files.mastodon.social/accounts/avatars/109/245/862/147/744/765/original/aecc46e03035e42d.png",
+      "bot": false,
+      "created_at": "Fri, 28 Oct 2022 00:00:00 GMT",
+      "discoverable": true,
+      "display_name": "Chris @ \ud83e\udda3",
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Web",
+          "value": "<a href=\"https://skulljackpot.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">skulljackpot.com</span><span class=\"invisible\"></span></a>",
+          "verified_at": "2023-02-01T19:45:22.594+00:00"
+        },
+        {
+          "name": "GitHub",
+          "value": "<a href=\"https://github.com/chrispatterson\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/chrispatterson</span><span class=\"invisible\"></span></a>",
+          "verified_at": "2023-01-18T18:15:50.253+00:00"
+        }
+      ],
+      "followers_count": 458,
+      "following_count": 1087,
+      "group": false,
+      "header": "https://files.mastodon.social/accounts/headers/109/245/862/147/744/765/original/c8b212225d2dc6d8.jpeg",
+      "header_static": "https://files.mastodon.social/accounts/headers/109/245/862/147/744/765/original/c8b212225d2dc6d8.jpeg",
+      "hide_collections": false,
+      "id": 109245862147744765,
+      "indexable": true,
+      "last_status_at": "Fri, 25 Oct 2024 00:00:00 GMT",
+      "locked": false,
+      "noindex": false,
+      "note": "<p>Mingos | Everton | Web nerdery | Politics | Current events</p>",
+      "roles": [],
+      "statuses_count": 2324,
+      "uri": "https://mastodon.social/users/tenzochris",
+      "url": "https://mastodon.social/@tenzochris",
+      "username": "tenzochris"
+    },
+    "bookmarked": false,
+    "card": null,
+    "content": "<p>Today\u2019s supervisor wanted me to remind you that you\u2019re pretty great.</p>",
+    "created_at": "Wed, 16 Oct 2024 19:31:55 GMT",
+    "edited_at": null,
+    "emojis": [],
+    "favourited": true,
+    "favourites_count": 84,
+    "filtered": [],
+    "id": 113318763938048628,
+    "in_reply_to_account_id": null,
+    "in_reply_to_id": null,
+    "language": "en",
+    "media_attachments": [
+      {
+        "blurhash": "UIGSJQo2_B-p_CxZRRIp-#-n%2Rl-pX4NLai",
+        "description": "Bubbles the dog, smiling at the camera with her tongue lolling out, having run off her excess energy at the dog park.",
+        "id": 113318763530852275,
+        "meta": {
+          "original": {
+            "aspect": 0.7500751879699248,
+            "height": 3325,
+            "size": "2494x3325",
+            "width": 2494
+          },
+          "small": {
+            "aspect": 0.7509025270758123,
+            "height": 554,
+            "size": "416x554",
+            "width": 416
+          }
+        },
+        "preview_remote_url": null,
+        "preview_url": "https://files.mastodon.social/media_attachments/files/113/318/763/530/852/275/small/3f901dc93b26c89b.jpeg",
+        "remote_url": null,
+        "text_url": null,
+        "type": "image",
+        "url": "https://files.mastodon.social/media_attachments/files/113/318/763/530/852/275/original/3f901dc93b26c89b.jpeg"
+      }
+    ],
+    "mentions": [],
+    "muted": false,
+    "poll": null,
+    "reblog": null,
+    "reblogged": true,
+    "reblogs_count": 34,
+    "replies_count": 5,
+    "sensitive": false,
+    "spoiler_text": "",
+    "tags": [],
+    "uri": "https://mastodon.social/users/tenzochris/statuses/113318763938048628",
+    "url": "https://mastodon.social/@tenzochris/113318763938048628",
+    "visibility": "public"
+  },
+  {
+    "account": {
+      "acct": "ShadowJonathan@tech.lgbt",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/001/231/256/original/ff02480e21715c3f.png",
+      "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/001/231/256/original/ff02480e21715c3f.png",
+      "bot": false,
+      "created_at": "Mon, 22 Jun 2020 00:00:00 GMT",
+      "discoverable": true,
+      "display_name": "Jo :v_enby: :blobhaj_default:\u200b :neocat: :neobun:",
+      "emojis": [
+        {
+          "shortcode": "obsidian",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/857/264/static/e924973150fa1772.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/857/264/original/e924973150fa1772.png",
+          "visible_in_picker": true
+        },
+        {
+          "shortcode": "netherportal",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/857/265/static/84670c2b3b1200d2.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/857/265/original/84670c2b3b1200d2.png",
+          "visible_in_picker": true
+        },
+        {
+          "shortcode": "neocat",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/683/924/static/69fb7ddd195bfdfc.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/683/924/original/69fb7ddd195bfdfc.png",
+          "visible_in_picker": true
+        },
+        {
+          "shortcode": "techlgbt",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/498/720/static/f9590136b0a785a5.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/498/720/original/f9590136b0a785a5.png",
+          "visible_in_picker": true
+        },
+        {
+          "shortcode": "neofox",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/621/004/static/f9390f95f8ddfaed.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/621/004/original/f9390f95f8ddfaed.png",
+          "visible_in_picker": true
+        },
+        {
+          "shortcode": "fcknzs",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/743/537/static/bd62e2b354467246.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/743/537/original/bd62e2b354467246.png",
+          "visible_in_picker": true
+        },
+        {
+          "shortcode": "antifa",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/743/538/static/31188cc514be961b.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/743/538/original/31188cc514be961b.png",
+          "visible_in_picker": true
+        },
+        {
+          "shortcode": "blobhaj_heart_trans",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/518/705/static/0a6a679b09fd7361.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/518/705/original/0a6a679b09fd7361.png",
+          "visible_in_picker": true
+        },
+        {
+          "shortcode": "fckpvv",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/778/034/static/ac96a18a66d83896.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/778/034/original/ac96a18a66d83896.png",
+          "visible_in_picker": true
+        },
+        {
+          "shortcode": "fckvvd",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/778/035/static/176e022d7c33f138.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/778/035/original/176e022d7c33f138.png",
+          "visible_in_picker": true
+        },
+        {
+          "shortcode": "v_enby",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/489/528/static/02aedc57590a7b5b.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/489/528/original/02aedc57590a7b5b.png",
+          "visible_in_picker": true
+        },
+        {
+          "shortcode": "blobhaj_default",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/519/505/static/23b0bda455da2644.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/519/505/original/23b0bda455da2644.png",
+          "visible_in_picker": true
+        },
+        {
+          "shortcode": "neobun",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/913/925/static/787269685c834c3a.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/913/925/original/787269685c834c3a.png",
+          "visible_in_picker": true
+        },
+        {
+          "shortcode": "blobhaj_headphones",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/518/712/static/2d97f86cb24a4d67.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/518/712/original/2d97f86cb24a4d67.png",
+          "visible_in_picker": true
+        },
+        {
+          "shortcode": "blobfoxheadphones",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/499/054/static/234430bcd18c2065.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/499/054/original/234430bcd18c2065.png",
+          "visible_in_picker": true
+        },
+        {
+          "shortcode": "neocat_eyes",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/868/743/static/5df5e19740b9233d.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/868/743/original/5df5e19740b9233d.png",
+          "visible_in_picker": true
+        },
+        {
+          "shortcode": "theythem",
+          "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/620/265/static/0fefa2b5844af974.png",
+          "url": "https://files.mastodon.social/cache/custom_emojis/images/000/620/265/original/0fefa2b5844af974.gif",
+          "visible_in_picker": true
+        }
+      ],
+      "fields": [
+        {
+          "name": "Return to Sender",
+          "value": "\u2203x x \u2208 {\ud83c\uddf3\ud83c\uddf1, \ud83c\uddea\ud83c\uddfa}",
+          "verified_at": null
+        },
+        {
+          "name": "Angular rotation count originating from going around the big burny thing",
+          "value": "Approx ${CURRENT_YEAR - 2000}",
+          "verified_at": null
+        },
+        {
+          "name": "Gender",
+          "value": "IDLE IN TRANSACTION",
+          "verified_at": null
+        },
+        {
+          "name": "Sex of U-Haul",
+          "value": "aegosexual, actually :neocat_eyes:",
+          "verified_at": null
+        },
+        {
+          "name": "Professional Nouns",
+          "value": ":theythem:",
+          "verified_at": null
+        },
+        {
+          "name": "Approximate relative positioning inside the \"world\" \"wide\" \"web\"",
+          "value": "<a href=\"https://jo.wtf\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">jo.wtf</span><span class=\"invisible\"></span></a>",
+          "verified_at": "2024-10-25T16:16:14.181+00:00"
+        },
+        {
+          "name": "Sus",
+          "value": "\u0d9e",
+          "verified_at": null
+        },
+        {
+          "name": ":blobhaj_headphones: :blobfoxheadphones:",
+          "value": "<a href=\"https://www.last.fm/user/ShadowJonathan\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">last.fm/user/ShadowJonathan</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        }
+      ],
+      "followers_count": 5112,
+      "following_count": 2772,
+      "group": false,
+      "header": "https://files.mastodon.social/cache/accounts/headers/001/231/256/original/f7d185e400dba90d.jpg",
+      "header_static": "https://files.mastodon.social/cache/accounts/headers/001/231/256/original/f7d185e400dba90d.jpg",
+      "hide_collections": false,
+      "id": 1231256,
+      "indexable": false,
+      "last_status_at": "Fri, 25 Oct 2024 00:00:00 GMT",
+      "locked": false,
+      "note": "<p>:obsidian:\u200b:obsidian:\u200b:obsidian:\u200b:obsidian:<br>:obsidian:\u200b:netherportal:\u200b:netherportal:\u200b:obsidian:<br>:obsidian:\u200b:netherportal:\u200b:netherportal:\u200b:obsidian:<br>:obsidian:\u200b:netherportal:\u200b:netherportal:\u200b:obsidian:<br>:obsidian:\u200b:obsidian:\u200b:obsidian:\u200b:obsidian: :neocat:</p><p>lazy systems mage</p><p>part-time gremlin on main</p><p>they/them gender anarchist</p><p>suspected ADHD haver and confirmed ASD enjoyer</p><p>:techlgbt: server mechanic</p><p>keeps fedi unmarketable</p><p>posts may be incomprehensible or inspirational</p><p>known to switch from \":neofox: &lt;- verified gremlin\" to \"capitalism must be dismantled\" without notice</p><p>(powered by the force of 30-50 feral hogs)</p><p>(\ud83d\udd1e Posts may contain lewd jokes or references (always cw'd))</p><p>(alt-text improvement suggestions OK :neocat:)</p><p>PFP by <span class=\"h-card\" translate=\"no\"><a href=\"https://nederland.gay/users/alex\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>alex</span></a></span> :3</p><p>Nazis, Fascists, and Tankies, fuck off, and go choke on something. :fcknzs: :antifa:</p><p>Be sure to pie your local Nazi.</p><p>Opt-out is not consent.</p><p>Trans Rights are Human Rights :blobhaj_heart_trans: :fckpvv: :fckvvd:</p><p><a href=\"https://tech.lgbt/tags/nobot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nobot</span></a> <a href=\"https://tech.lgbt/tags/noindex\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>noindex</span></a> (screenshots ok if public)</p>",
+      "statuses_count": 68741,
+      "uri": "https://tech.lgbt/users/ShadowJonathan",
+      "url": "https://tech.lgbt/@ShadowJonathan",
+      "username": "ShadowJonathan"
+    },
+    "bookmarked": false,
+    "card": null,
+    "content": "<p>\ud83e\udd80 :boosts_ok_gay:</p>",
+    "created_at": "Wed, 16 Oct 2024 14:23:24 GMT",
+    "edited_at": "Wed, 16 Oct 2024 14:24:15 GMT",
+    "emojis": [
+      {
+        "shortcode": "boosts_ok_gay",
+        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/182/682/static/adf6e6e6db62cded.png",
+        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/182/682/original/adf6e6e6db62cded.png",
+        "visible_in_picker": true
+      }
+    ],
+    "favourited": true,
+    "favourites_count": 58,
+    "filtered": [],
+    "id": 113317554188576593,
+    "in_reply_to_account_id": null,
+    "in_reply_to_id": null,
+    "language": "en",
+    "media_attachments": [
+      {
+        "blurhash": "UGA]?3t70LM{9aW=%LjY58s.xYNb-PWAW?t8",
+        "description": "an edited image of \"you wouldn't steal a car\", instead showing \"you would boost a crab\", with a crab right underneath",
+        "id": 113317554100168706,
+        "meta": {
+          "focus": {
+            "x": 0.02,
+            "y": 0.73
+          },
+          "original": {
+            "aspect": 1.044,
+            "height": 500,
+            "size": "522x500",
+            "width": 522
+          },
+          "small": {
+            "aspect": 1.044776119402985,
+            "height": 469,
+            "size": "490x469",
+            "width": 490
+          }
+        },
+        "preview_remote_url": null,
+        "preview_url": "https://files.mastodon.social/cache/media_attachments/files/113/317/554/100/168/706/small/f9f359c12ac3e739.png",
+        "remote_url": "https://media.tech.lgbt/media_attachments/files/113/317/549/065/435/667/original/6ca262ab595bd3dd.png",
+        "text_url": null,
+        "type": "image",
+        "url": "https://files.mastodon.social/cache/media_attachments/files/113/317/554/100/168/706/original/f9f359c12ac3e739.png"
+      }
+    ],
+    "mentions": [],
+    "muted": false,
+    "poll": null,
+    "reblog": null,
+    "reblogged": false,
+    "reblogs_count": 561,
+    "replies_count": 29,
+    "sensitive": false,
+    "spoiler_text": "",
+    "tags": [],
+    "uri": "https://tech.lgbt/users/ShadowJonathan/statuses/113317550793532630",
+    "url": "https://tech.lgbt/@ShadowJonathan/113317550793532630",
+    "visibility": "public"
+  },
+  {
+    "account": {
+      "acct": "Fuchskind@mastodon.art",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/293/235/076/556/761/original/563ff8169995e5c3.png",
+      "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/293/235/076/556/761/original/563ff8169995e5c3.png",
+      "bot": false,
+      "created_at": "Sat, 05 Nov 2022 00:00:00 GMT",
+      "discoverable": true,
+      "display_name": "Daniela Schreiter",
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Linktree",
+          "value": "<a href=\"https://linktr.ee/fuchskindsfuchsbau\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">linktr.ee/fuchskindsfuchsbau</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        },
+        {
+          "name": "Support",
+          "value": "<a href=\"https://ko-fi.com/fuchskind\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/fuchskind</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        },
+        {
+          "name": "Pronomen",
+          "value": "Sie/ihr",
+          "verified_at": null
+        }
+      ],
+      "followers_count": 5660,
+      "following_count": 141,
+      "group": false,
+      "header": "https://files.mastodon.social/cache/accounts/headers/109/293/235/076/556/761/original/22a4015a284ce0d6.jpeg",
+      "header_static": "https://files.mastodon.social/cache/accounts/headers/109/293/235/076/556/761/original/22a4015a284ce0d6.jpeg",
+      "hide_collections": false,
+      "id": 109293235076556761,
+      "indexable": true,
+      "last_status_at": "Fri, 25 Oct 2024 00:00:00 GMT",
+      "locked": false,
+      "note": "<p>Autistic Comic Artist/Illustrator from Berlin (Germany) |\ud83c\udff3\ufe0f\u200d\ud83c\udf08| Vegan \ud83d\udc9a <a href=\"https://mastodon.art/tags/inclusion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>inclusion</span></a> <a href=\"https://mastodon.art/tags/comics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>comics</span></a> <a href=\"https://mastodon.art/tags/TTRPG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TTRPG</span></a> <a href=\"https://mastodon.art/tags/autism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>autism</span></a> <a href=\"https://mastodon.art/tags/NerdStuff\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NerdStuff</span></a> <a href=\"https://mastodon.art/tags/CuteArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CuteArt</span></a> \ud83d\ude0a\u2028she/her | Toots in \ud83c\udde9\ud83c\uddea&amp;\ud83c\uddec\ud83c\udde7</p><p>\u2734 email: info@danielaschreiter.com<br>\u2734 Website: <a href=\"https://www.danielaschreiter.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">danielaschreiter.com</span><span class=\"invisible\"></span></a><br>\u2734 Links: <a href=\"https://linktr.ee/fuchskindsfuchsbau\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">linktr.ee/fuchskindsfuchsbau</span><span class=\"invisible\"></span></a></p>",
+      "statuses_count": 7878,
+      "uri": "https://mastodon.art/users/Fuchskind",
+      "url": "https://mastodon.art/@Fuchskind",
+      "username": "Fuchskind"
+    },
+    "bookmarked": false,
+    "card": null,
+    "content": "<p>You are doing your best, little human \ud83e\udde1\ud83c\udf41.</p><p><a href=\"https://mastodon.art/tags/MastoArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoArt</span></a> <a href=\"https://mastodon.art/tags/Comic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Comic</span></a> <a href=\"https://mastodon.art/tags/Autumn\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Autumn</span></a> <a href=\"https://mastodon.art/tags/Fall\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fall</span></a> <a href=\"https://mastodon.art/tags/Cozy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Cozy</span></a></p>",
+    "created_at": "Wed, 16 Oct 2024 18:49:30 GMT",
+    "edited_at": null,
+    "emojis": [],
+    "favourited": true,
+    "favourites_count": 51,
+    "filtered": [],
+    "id": 113318597293884615,
+    "in_reply_to_account_id": null,
+    "in_reply_to_id": null,
+    "language": "en",
+    "media_attachments": [
+      {
+        "blurhash": "UTOW.-r=_Ntk[+T1iGvy,,S#w0rs$gnhO[XT",
+        "description": "Comic in four Panels.\nFirst Panel. A woman with red curly hair is walking through an autumn scene. She is wearing a green jacket, a green scarf and a yellow backpack. An autumn leaf lands on her head, she looks surprised.",
+        "id": 113318597149350524,
+        "meta": {
+          "focus": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "original": {
+            "aspect": 1.0,
+            "height": 1000,
+            "size": "1000x1000",
+            "width": 1000
+          },
+          "small": {
+            "aspect": 1.0,
+            "height": 480,
+            "size": "480x480",
+            "width": 480
+          }
+        },
+        "preview_remote_url": null,
+        "preview_url": "https://files.mastodon.social/cache/media_attachments/files/113/318/597/149/350/524/small/fe93e316cbb01525.png",
+        "remote_url": "https://cdn.masto.host/mastodonart/media_attachments/files/113/318/592/298/527/357/original/d6d4364612f74421.png",
+        "text_url": null,
+        "type": "image",
+        "url": "https://files.mastodon.social/cache/media_attachments/files/113/318/597/149/350/524/original/fe93e316cbb01525.png"
+      },
+      {
+        "blurhash": "UUOW=^xZ_NW=]fWVqss,$vo0w0Sh$foMK+X8",
+        "description": "Second Panel.\nShe takes the leaf off her head and looks at it.",
+        "id": 113318597191851036,
+        "meta": {
+          "focus": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "original": {
+            "aspect": 1.0,
+            "height": 1000,
+            "size": "1000x1000",
+            "width": 1000
+          },
+          "small": {
+            "aspect": 1.0,
+            "height": 480,
+            "size": "480x480",
+            "width": 480
+          }
+        },
+        "preview_remote_url": null,
+        "preview_url": "https://files.mastodon.social/cache/media_attachments/files/113/318/597/191/851/036/small/e6dce593ead89a0d.png",
+        "remote_url": "https://cdn.masto.host/mastodonart/media_attachments/files/113/318/594/855/382/313/original/d92b11ff4161e1c5.png",
+        "text_url": null,
+        "type": "image",
+        "url": "https://files.mastodon.social/cache/media_attachments/files/113/318/597/191/851/036/original/e6dce593ead89a0d.png"
+      },
+      {
+        "blurhash": "UaN-.fxbPqbGtms:RORjt-nOrCTK$LfRXTj[",
+        "description": "Third Panel.\nHer hand is holding the leaf, it has  a little face now and says: \u201eI beleaf in you.\u201c In this sentence \u201ebeleaf\u201c is written like in autumn leaf.",
+        "id": 113318597227728318,
+        "meta": {
+          "focus": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "original": {
+            "aspect": 1.0,
+            "height": 1000,
+            "size": "1000x1000",
+            "width": 1000
+          },
+          "small": {
+            "aspect": 1.0,
+            "height": 480,
+            "size": "480x480",
+            "width": 480
+          }
+        },
+        "preview_remote_url": null,
+        "preview_url": "https://files.mastodon.social/cache/media_attachments/files/113/318/597/227/728/318/small/6edc46f0f33a078c.png",
+        "remote_url": "https://cdn.masto.host/mastodonart/media_attachments/files/113/318/595/830/517/611/original/33341250be2280fa.png",
+        "text_url": null,
+        "type": "image",
+        "url": "https://files.mastodon.social/cache/media_attachments/files/113/318/597/227/728/318/original/6edc46f0f33a078c.png"
+      },
+      {
+        "blurhash": "UVOgQQxC_NXT]fazZfr=$wsonTah,.WXPCbb",
+        "description": "Fourth Panel.\nThe woman smiles and a little heart appears.",
+        "id": 113318597260509425,
+        "meta": {
+          "focus": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "original": {
+            "aspect": 1.0,
+            "height": 1000,
+            "size": "1000x1000",
+            "width": 1000
+          },
+          "small": {
+            "aspect": 1.0,
+            "height": 480,
+            "size": "480x480",
+            "width": 480
+          }
+        },
+        "preview_remote_url": null,
+        "preview_url": "https://files.mastodon.social/cache/media_attachments/files/113/318/597/260/509/425/small/eb5530077d236910.png",
+        "remote_url": "https://cdn.masto.host/mastodonart/media_attachments/files/113/318/596/396/998/454/original/4e624a2febb3ec0e.png",
+        "text_url": null,
+        "type": "image",
+        "url": "https://files.mastodon.social/cache/media_attachments/files/113/318/597/260/509/425/original/eb5530077d236910.png"
+      }
+    ],
+    "mentions": [],
+    "muted": false,
+    "poll": null,
+    "reblog": null,
+    "reblogged": true,
+    "reblogs_count": 219,
+    "replies_count": 12,
+    "sensitive": false,
+    "spoiler_text": "",
+    "tags": [
+      {
+        "name": "mastoart",
+        "url": "https://mastodon.social/tags/mastoart"
+      },
+      {
+        "name": "comic",
+        "url": "https://mastodon.social/tags/comic"
+      },
+      {
+        "name": "autumn",
+        "url": "https://mastodon.social/tags/autumn"
+      },
+      {
+        "name": "fall",
+        "url": "https://mastodon.social/tags/fall"
+      },
+      {
+        "name": "cozy",
+        "url": "https://mastodon.social/tags/cozy"
+      }
+    ],
+    "uri": "https://mastodon.art/users/Fuchskind/statuses/113318597100378335",
+    "url": "https://mastodon.art/@Fuchskind/113318597100378335",
+    "visibility": "public"
+  },
+  {
+    "account": {
+      "acct": "enfys@wetdry.world",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/111/653/596/753/673/440/original/f02c9ca98b032b4a.png",
+      "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/111/653/596/753/673/440/original/f02c9ca98b032b4a.png",
+      "bot": false,
+      "created_at": "Wed, 27 Dec 2023 00:00:00 GMT",
+      "discoverable": true,
+      "display_name": "Enfys \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Pronouns",
+          "value": "They/Them",
+          "verified_at": null
+        },
+        {
+          "name": "Discord",
+          "value": "tobach",
+          "verified_at": null
+        },
+        {
+          "name": "Languages",
+          "value": "English, Welsh",
+          "verified_at": null
+        },
+        {
+          "name": "Programming Languages",
+          "value": "C, Assembly (ARM, 6502, 6809), COBOL, Lua, Python",
+          "verified_at": null
+        }
+      ],
+      "followers_count": 248,
+      "following_count": 225,
+      "group": false,
+      "header": "https://files.mastodon.social/cache/accounts/headers/111/653/596/753/673/440/original/2d484312612fbf35.jpg",
+      "header_static": "https://files.mastodon.social/cache/accounts/headers/111/653/596/753/673/440/original/2d484312612fbf35.jpg",
+      "hide_collections": false,
+      "id": 111653596753673440,
+      "indexable": true,
+      "last_status_at": "Thu, 24 Oct 2024 00:00:00 GMT",
+      "locked": false,
+      "note": "<p>22 // Queer Disaster // Demoscener (Slipstream^RiFT^Poo-Brain^TUHB^FTG) // Retro tech enjoyer // Assembly fanatic // Train nerd</p>",
+      "statuses_count": 672,
+      "uri": "https://wetdry.world/users/enfys",
+      "url": "https://wetdry.world/@enfys",
+      "username": "enfys"
+    },
+    "bookmarked": false,
+    "card": null,
+    "content": "<p>you've heard of Cython now get ready for CYthon \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f </p><p>welsh python was not one of my greatest ideas i now realise</p>",
+    "created_at": "Wed, 16 Oct 2024 18:20:13 GMT",
+    "edited_at": null,
+    "emojis": [],
+    "favourited": true,
+    "favourites_count": 52,
+    "filtered": [],
+    "id": 113318482140045105,
+    "in_reply_to_account_id": null,
+    "in_reply_to_id": null,
+    "language": "en",
+    "media_attachments": [
+      {
+        "blurhash": "U44_qt_4%NRjD%E0M{j[ofofj[WBxuxvt7WB",
+        "description": "a screenshot of some python code, all the keywords have been translated into welsh.\nthe code has a loop that repeats 20 times printing \"shwmae\" and \"helo\" along with a sine and cosine calculation of a value along with the loop interation number",
+        "id": 113318482058636779,
+        "meta": {
+          "focus": {
+            "x": -0.03,
+            "y": 1.0
+          },
+          "original": {
+            "aspect": 1.2444444444444445,
+            "height": 765,
+            "size": "952x765",
+            "width": 952
+          },
+          "small": {
+            "aspect": 1.244186046511628,
+            "height": 430,
+            "size": "535x430",
+            "width": 535
+          }
+        },
+        "preview_remote_url": null,
+        "preview_url": "https://files.mastodon.social/cache/media_attachments/files/113/318/482/058/636/779/small/4456efd74639c5b4.png",
+        "remote_url": "https://media.wetdry.world/media_attachments/files/113/318/465/355/311/739/original/f0d92148dd7b2c2a.png",
+        "text_url": null,
+        "type": "image",
+        "url": "https://files.mastodon.social/cache/media_attachments/files/113/318/482/058/636/779/original/4456efd74639c5b4.png"
+      }
+    ],
+    "mentions": [],
+    "muted": false,
+    "poll": null,
+    "reblog": null,
+    "reblogged": false,
+    "reblogs_count": 297,
+    "replies_count": 28,
+    "sensitive": false,
+    "spoiler_text": "",
+    "tags": [],
+    "uri": "https://wetdry.world/users/enfys/statuses/113318481984885488",
+    "url": "https://wetdry.world/@enfys/113318481984885488",
+    "visibility": "public"
+  },
+  {
+    "account": {
+      "acct": "Daojoan",
+      "avatar": "https://files.mastodon.social/accounts/avatars/109/769/076/265/344/791/original/8ced8542205417cf.jpeg",
+      "avatar_static": "https://files.mastodon.social/accounts/avatars/109/769/076/265/344/791/original/8ced8542205417cf.jpeg",
+      "bot": false,
+      "created_at": "Sat, 28 Jan 2023 00:00:00 GMT",
+      "discoverable": true,
+      "display_name": "Joan Westenberg",
+      "emojis": [],
+      "fields": [
+        {
+          "name": "@Westenberg",
+          "value": "<a href=\"https://joanwestenberg.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">joanwestenberg.com/</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        },
+        {
+          "name": "The Index",
+          "value": "<a href=\"https://www.theindex.media/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">theindex.media/</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        }
+      ],
+      "followers_count": 9324,
+      "following_count": 1620,
+      "group": false,
+      "header": "https://files.mastodon.social/accounts/headers/109/769/076/265/344/791/original/728ecb658c3ba5a6.png",
+      "header_static": "https://files.mastodon.social/accounts/headers/109/769/076/265/344/791/original/728ecb658c3ba5a6.png",
+      "hide_collections": false,
+      "id": 109769076265344791,
+      "indexable": false,
+      "last_status_at": "Fri, 25 Oct 2024 00:00:00 GMT",
+      "locked": false,
+      "noindex": false,
+      "note": "<p>\u201cFoul-mouthed leftist\u201d \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f I write about tech + politics + humans.</p>",
+      "roles": [],
+      "statuses_count": 5469,
+      "uri": "https://mastodon.social/users/Daojoan",
+      "url": "https://mastodon.social/@Daojoan",
+      "username": "Daojoan"
+    },
+    "application": {
+      "name": "Micro.blog",
+      "website": "https://micro.blog/"
+    },
+    "bookmarked": false,
+    "card": null,
+    "content": "<p>You are allowed to log the fuck off. Ignore the headlines. Ignore the tweets. Ignore the chaos and the noise and the people who profit from it. Go doorknock. Make some phone calls. Take up a hobby. Learn to bake sour dough. And then vote. Don\u2019t let the bullshit depress, oppress or suppress you.</p>",
+    "created_at": "Wed, 16 Oct 2024 21:32:12 GMT",
+    "edited_at": null,
+    "emojis": [],
+    "favourited": true,
+    "favourites_count": 219,
+    "filtered": [],
+    "id": 113319236920936186,
+    "in_reply_to_account_id": null,
+    "in_reply_to_id": null,
+    "language": "en",
+    "media_attachments": [],
+    "mentions": [],
+    "muted": false,
+    "poll": null,
+    "reblog": null,
+    "reblogged": true,
+    "reblogs_count": 140,
+    "replies_count": 11,
+    "sensitive": false,
+    "spoiler_text": "",
+    "tags": [],
+    "uri": "https://mastodon.social/users/Daojoan/statuses/113319236920936186",
+    "url": "https://mastodon.social/@Daojoan/113319236920936186",
+    "visibility": "public"
+  },
+  {
+    "account": {
+      "acct": "SrRochardBunson@universeodon.com",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/374/113/320/671/132/original/421f038e5e46798b.jpg",
+      "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/374/113/320/671/132/original/421f038e5e46798b.jpg",
+      "bot": false,
+      "created_at": "Sun, 20 Nov 2022 00:00:00 GMT",
+      "discoverable": true,
+      "display_name": "Sir Rochard 'Dock' Bunson",
+      "emojis": [],
+      "fields": [
+        {
+          "name": "ArtFED Audio Collage",
+          "value": "<a href=\"https://on.soundcloud.com/h8N1q\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">on.soundcloud.com/h8N1q</span><span class=\"invisible\"></span></a>",
+          "verified_at": null
+        },
+        {
+          "name": "Resistance International",
+          "value": "<a href=\"https://ko-fi.com/resistanceinternational/shop\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ko-fi.com/resistanceinternatio</span><span class=\"invisible\">nal/shop</span></a>",
+          "verified_at": null
+        }
+      ],
+      "followers_count": 4185,
+      "following_count": 7238,
+      "group": false,
+      "header": "https://files.mastodon.social/cache/accounts/headers/109/374/113/320/671/132/original/2e8291c3f9489a16.jpg",
+      "header_static": "https://files.mastodon.social/cache/accounts/headers/109/374/113/320/671/132/original/2e8291c3f9489a16.jpg",
+      "hide_collections": false,
+      "id": 109374113320671132,
+      "indexable": false,
+      "last_status_at": "Fri, 25 Oct 2024 00:00:00 GMT",
+      "locked": true,
+      "note": "<p><a href=\"https://universeodon.com/tags/Antifascist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Antifascist</span></a> <a href=\"https://universeodon.com/tags/Generalist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Generalist</span></a></p><p>Be excellent to each other.</p><p>Except for <a href=\"https://universeodon.com/tags/Fascists\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fascists</span></a>. They can get fucked.</p><p>If you aren't a <a href=\"https://universeodon.com/tags/Nazi\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Nazi</span></a> but I annoy you, you can mute my <a href=\"https://universeodon.com/tags/Boosts\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Boosts</span></a></p><p>Make Punching Nazis Cool Again<br><a href=\"https://universeodon.com/tags/MPNCA\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MPNCA</span></a></p><p><a href=\"https://universeodon.com/tags/ArtFED\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ArtFED</span></a>             <a href=\"https://universeodon.com/tags/TVAC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TVAC</span></a></p><p>\"The Resistance Will  Be Federated\"</p><p>\ud83d\ude4f Take my Stuff (Original posts CC-BY-SA 4.0)</p><p><a href=\"https://universeodon.com/tags/TheResistanceWillBeFederated\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TheResistanceWillBeFederated</span></a><br>\ud83d\udc1d<br>Also at <span class=\"h-card\" translate=\"no\"><a href=\"https://firefish.social/@SrRochardBunson\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>SrRochardBunson</span></a></span> &amp; with Resistance International</p><p>No TERFs or astroturf</p><p>Surfing the waves of chaos <br>               \ud83c\udf0a \ud83c\udfc4\u200d\u2642\ufe0f \ud83c\udf0a</p>",
+      "statuses_count": 11539,
+      "uri": "https://universeodon.com/users/SrRochardBunson",
+      "url": "https://universeodon.com/@SrRochardBunson",
+      "username": "SrRochardBunson"
+    },
+    "bookmarked": false,
+    "card": null,
+    "content": "<p><a href=\"https://universeodon.com/tags/Refugees\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Refugees</span></a> <a href=\"https://universeodon.com/tags/Billionaires\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Billionaires</span></a> <a href=\"https://universeodon.com/tags/TaxOrEatTheRich\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TaxOrEatTheRich</span></a></p>",
+    "created_at": "Wed, 16 Oct 2024 18:11:29 GMT",
+    "edited_at": null,
+    "emojis": [],
+    "favourited": true,
+    "favourites_count": 179,
+    "filtered": [],
+    "id": 113318447651291200,
+    "in_reply_to_account_id": null,
+    "in_reply_to_id": null,
+    "language": "en",
+    "media_attachments": [
+      {
+        "blurhash": "UTCP@nW=EOM{~qogJBRjxuxuRjbIIUxun$oz",
+        "description": "Your enemy\nis not the refugee.\nYour enemy is the one\nwho made him a refugee\nWillie Nelson,\nAmerican singer, songwriter, musician,\nand political activist",
+        "id": 113318447942335716,
+        "meta": {
+          "focus": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "original": {
+            "aspect": 0.8417508417508418,
+            "height": 891,
+            "size": "750x891",
+            "width": 750
+          },
+          "small": {
+            "aspect": 0.8413001912045889,
+            "height": 523,
+            "size": "440x523",
+            "width": 440
+          }
+        },
+        "preview_remote_url": null,
+        "preview_url": "https://files.mastodon.social/cache/media_attachments/files/113/318/447/942/335/716/small/1ee8418f8d633751.jpg",
+        "remote_url": "https://media.universeodon.com/media_attachments/files/113/318/445/524/222/673/original/1fa3139ebefddf9a.jpg",
+        "text_url": null,
+        "type": "image",
+        "url": "https://files.mastodon.social/cache/media_attachments/files/113/318/447/942/335/716/original/1ee8418f8d633751.jpg"
+      }
+    ],
+    "mentions": [],
+    "muted": false,
+    "poll": null,
+    "reblog": null,
+    "reblogged": false,
+    "reblogs_count": 664,
+    "replies_count": 10,
+    "sensitive": false,
+    "spoiler_text": "",
+    "tags": [
+      {
+        "name": "refugees",
+        "url": "https://mastodon.social/tags/refugees"
+      },
+      {
+        "name": "billionaires",
+        "url": "https://mastodon.social/tags/billionaires"
+      },
+      {
+        "name": "taxoreattherich",
+        "url": "https://mastodon.social/tags/taxoreattherich"
+      }
+    ],
+    "uri": "https://universeodon.com/users/SrRochardBunson/statuses/113318447656498805",
+    "url": "https://universeodon.com/@SrRochardBunson/113318447656498805",
+    "visibility": "public"
+  }
+]
