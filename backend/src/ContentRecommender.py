@@ -10,7 +10,6 @@ class ContentRecommender:
     def recommendByUserInteractions(self, user_id) -> list:
         userLikes = self.dataFetcher.getUserLikedPosts(user_id)
         likedKeywords = self.__extractKeywords(userLikes)
-        print(likedKeywords)
 
         publicTimeline = self.dataFetcher.getPublicTimeline()
         for post in publicTimeline:
