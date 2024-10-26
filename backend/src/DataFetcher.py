@@ -17,7 +17,7 @@ class DataFetcher:
                 break
 
             timeline.extend(page)
-            next_page = page[-1]["id"] if page else None
+            next_page = page[-1]['id'] if page else None
 
         return timeline
 

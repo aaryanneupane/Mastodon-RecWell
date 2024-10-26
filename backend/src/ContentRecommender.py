@@ -8,16 +8,21 @@ class ContentRecommender:
         self.recommendations = []
         self.keywordExtractor = KeywordExtractor()
 
-    def recommendByUserInteractions(self, user_id) -> list:
+    def recommendByUserInteractions(self, user_id, max_pages=10) -> list:
+        self.recommendations = [] # Clear previous recommendations
+        # Keep previously fetched recommendations
         userLikes = self.dataFetcher.getUserLikedPosts(user_id)
         likedKeywords = self.__extractKeywords(userLikes)
 
-        publicTimeline = self.dataFetcher.getPublicTimeline(max_pages=10)
+        # Fetch the public timeline with the specified number of pages
+        publicTimeline = self.dataFetcher.getPublicTimeline(max_pages=max_pages)
+
+        # Add only new matches to avoid duplication
         for post in publicTimeline:
-            if self.__postMatchesUserPreferences(post, likedKeywords):
+            if self.__postMatchesUserPreferences(post, likedKeywords) and post not in self.recommendations:
                 self.recommendations.append(post)
 
-        return userLikes
+        return self.recommendations
 
     def __extractKeywords(self, posts) -> list:
         keywords = []
@@ -25,7 +30,6 @@ class ContentRecommender:
             content = post['content']
             keywords.extend(self.keywordExtractor.extractKeywords(content))
         return keywords
-
 
     def __postMatchesUserPreferences(self, post, likedKeywords) -> bool:
         postKeywords = self.__extractKeywords([post])
